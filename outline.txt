@@ -1,0 +1,23 @@
+-Catan Generator
+
+-Board
+    -Array
+    -Hex object
+        -Neighbors
+
+-Standard random generator
+    -Randomized hex distribution
+    -Circular probability distribution
+
+-Balanced generator
+    -Hex distribution
+        -Sufficient identical resources distances
+        -General resource board distribution
+    -Probability distribution
+        -Sufficient similar chips distances
+        -Variety in chip strengths on resources
+        -General chip board distribution
+    -Port distribution
+        -Appropriate port to resource distances
+        -Appropriate port to probability distances
+        -Variety in 3:1 and 2:1 ports distribution
