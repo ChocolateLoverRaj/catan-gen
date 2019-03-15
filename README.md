@@ -3,11 +3,25 @@ Generator for a mathematically fair, randomized board setup for Settlers of Cata
 
 ## Usage
 
-Simply run the `catan_gen` Python script from terminal.  A REPL will prompt user for board parameters/presets.
+Simply run the `catan_gen.py` Python script from terminal.  A REPL will prompt user for board parameters/presets.
 
-`> python catan_gen`
+`> python catan_gen.py`
 
-#### Example Output
+### Key
+
+```
+H : hill
+P : pasture
+M : mountain
+W : field
+F : forest
+D : desert
+- : sea
+```
+
+Numbers are represented in hexadecimal.
+
+### Example Output
 
 Normal (4-player)
 ```
