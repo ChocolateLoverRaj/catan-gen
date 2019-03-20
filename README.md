@@ -13,7 +13,7 @@ Simply run the `catan_gen.py` Python script from terminal.  A REPL will prompt u
 H : hill
 P : pasture
 M : mountain
-W : field
+W : wheat/fields
 F : forest
 D : desert
 - : sea
@@ -65,3 +65,5 @@ There are currently 4 available presets from the Seafarers Expansion:
 - New Shores
 - Four Islands
 - Fog Islands
+
+TODO:  Add support for port distributions and all remaining Seafarers presets.
