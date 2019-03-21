@@ -1,9 +1,9 @@
 # Catan Board Generator
-Generator for a mathematically fair, randomized board setup for Settlers of Catan.
+Generator for a more mathematically fair, randomized board setup for Settlers of Catan.
 
 ## Usage
 
-Simply run the `catan_gen.py` Python script from terminal.  A REPL will prompt user for board parameters/presets.
+Simply run the `catan_gen.py` Python script from terminal.  A REPL will prompt the user for board parameters/presets.
 
 `> python catan_gen.py`
 
@@ -13,7 +13,7 @@ Simply run the `catan_gen.py` Python script from terminal.  A REPL will prompt u
 H : hill
 P : pasture
 M : mountain
-W : wheat/fields
+W : wheat/field
 F : forest
 D : desert
 - : sea
