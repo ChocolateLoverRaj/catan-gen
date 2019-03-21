@@ -3,7 +3,7 @@ Generator for a more mathematically fair, randomized board setup for Settlers of
 
 ## Usage
 
-Simply run the `catan_gen.py` Python script from terminal.  A REPL will prompt the user for board parameters/presets.
+Simply run the `catan_gen.py` Python script from terminal.  A REPL will prompt the user for board parameters/presets.  The randomized board with the highest normalized score is displayed.
 
 `> python catan_gen.py`
 
